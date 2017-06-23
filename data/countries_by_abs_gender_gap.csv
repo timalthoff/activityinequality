@@ -1,0 +1,47 @@
+rank,country,gender_gap_(m-f)
+1,Sweden,247
+2,Ukraine,294
+3,Hungary,383
+4,Norway,415
+5,Italy,422
+6,Russia,428
+7,Czech Republic,442
+8,Finland,456
+9,Egypt,512
+10,France,526
+11,Portugal,573
+12,Germany,581
+13,South Korea,591
+14,Indonesia,611
+15,Greece,628
+16,Turkey,634
+17,China,649
+18,Belgium,666
+19,Poland,678
+20,Switzerland,691
+21,Spain,738
+22,Romania,752
+23,Chile,784
+24,Taiwan,802
+25,Ireland,845
+26,New Zealand,850
+27,Denmark,864
+28,Singapore,870
+29,Brazil,879
+30,Netherlands,886
+31,Hong Kong,906
+32,Israel,912
+33,India,922
+34,Japan,934
+35,Philippines,1009
+36,Thailand,1041
+37,United Kingdom,1074
+38,Mexico,1085
+39,Canada,1229
+40,South Africa,1325
+41,United States,1407
+42,Australia,1428
+43,United Arab Emirates,1461
+44,Malaysia,1478
+45,Saudi Arabia,1664
+46,Qatar,1825
