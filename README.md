@@ -1,12 +1,15 @@
 # Activity Inequality Project
 Data release for Activity Inequality paper.
 
-Directory structure: 
-There is a subdirectory corresponding to each Figure and Extended Data Figure. 
-All data is stored in ./data.
-All figure outputs are stored in ./output.
+For more information about the project and findings visit http://activityinequality.stanford.edu
 
 When using this data please cite the source of the data:
-ADD CITATION HERE
+Tim Althoff, Rok Sosic, Jennifer L. Hicks, Abby C. King, Scott L. Delp, Jure Leskovec. "Large-scale physical activity data reveal worldwide activity inequality." Nature 547.7663 (2017).
 
-More information: http://activityinequality.stanford.edu
+
+Directory structure: 
+There is a subdirectory corresponding to each Figure and Extended Data Figure. 
+All data are stored in ./data.
+All figure outputs are stored in ./output.
+
+
